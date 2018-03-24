@@ -1,0 +1,10 @@
+body {
+    background-color: black;
+}
+
+#container {
+    width: 26%;
+    margin-left: 15%;
+    padding: 5%;     
+    background-color: cornflowerblue;
+}
